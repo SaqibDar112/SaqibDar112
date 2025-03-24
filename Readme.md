@@ -6,7 +6,7 @@ Hi there! 👋 Welcome to my GitHub profile. I'm Saqib, a passionate full-stack 
 - **C++**, **Python**, **Java**, **JavaScript**
 
 ### Frameworks & Libraries:
-- **React.js**, **Semantic UI**, **Streamlit**
+- **React.js**, **Semantic UI**
 
 ### Cloud Computing:
 - **Google Cloud Platform (GCP)** (NPTEL Certified)
