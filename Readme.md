@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 B.Tech in **Computer Science & Engineering** at **Lovely Professional University** (CGPA: 7.10)  
+- 🌱 B.Tech in **Computer Science & Engineering** at **Lovely Professional University** 
 - 💻 Full-stack developer with expertise in **MERN, Laravel, Django, Spring Boot**  
 - 🔭 Exploring **AI, Cloud Computing, and DevOps**  
 - 🏆 Hackathon finalist & coding enthusiast (LeetCode, CodeForces, CodeChef)  
