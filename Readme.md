@@ -33,21 +33,6 @@
 **Core CS**  
 `DSA` | `OOP` | `OS` | `DBMS`
 
----
-
-### 📂 Projects
-
-#### 🌱 Eco-Home *(React.js, Node.js, MongoDB, Docker, Jenkins)*  
-- Responsive web app to track and visualize household electricity usage.  
-- Real-time IoT dashboards → **15% reduction in energy consumption**.  
-- Implemented CI/CD with Docker & Jenkins.  
-
-#### 🔨 Bidding Auction Platform *(Laravel, PHP)*  
-- Secure real-time auction system handling **500+ bids/min** with **99.99% uptime**.  
-- Fraud prevention with admin controls → **40% fewer fraudulent attempts**.  
-- Wallet management & secure transactions.  
-
----
 
 ### 🏆 Achievements
 - ⭐ **1400+ Rating** on CodeChef (2-star), solved **300+ problems** across platforms.  
@@ -64,14 +49,7 @@
 - 🌐 **MERN Stack Development** – Cipher Schools *(May 2024)*  
 - 📘 **Data Structures & Algorithms** – Udemy *(July 2023)*  
 
----
 
-### 🎓 Education
-- **B.Tech (CSE)** – Lovely Professional University *(2022 – Present)* | CGPA: 7.10  
-- **Intermediate** – Govt. Boys Model Higher Secondary, Anantnag | 70%  
-- **Matriculation** – Army Proud Scholars School, Anantnag | GPA: 8.2  
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaqibDar112&show_icons=true&theme=tokyonight" height="160px"/>
