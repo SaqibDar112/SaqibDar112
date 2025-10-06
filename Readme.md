@@ -6,7 +6,6 @@
 <p align="center">
   <a href="mailto:darsaqib4979@gmail.com"><img src="https://img.shields.io/badge/Email-darsaqib4979%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://linkedin.com/in/saqib-dar-36856020a"><img src="https://img.shields.io/badge/LinkedIn-Saqib%20Dar-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/SaqibDar112"><img src="https://img.shields.io/badge/GitHub-SaqibDar112-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
