@@ -51,7 +51,7 @@
 ---
 
 ### 🏆 Achievements
-- ⭐ **1400+ Rating** on CodeChef (2-star), solved **300+ problems** across platforms  
+- ⭐⭐**1450+ Rating** on CodeChef (2-star), solved **300+ problems** across platforms  
 - 🎯 Qualified **Adobe India Hackathon** ( second round )  
 - 🎓 **Dean’s List** – Top 10% academically  
 - 🥇 **26th Rank** out of 50,000+ in Smart India Hackathon  
