@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Saqib Dar</h1>
-<h3 align="center">🚀 Software Engineer | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">🚀 Software Engineer at Frejun Inc.| Full-Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:darsaqib4979@gmail.com"><img src="https://img.shields.io/badge/Email-darsaqib4979%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
